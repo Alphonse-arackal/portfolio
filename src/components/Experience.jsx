@@ -1,15 +1,15 @@
 const experience = [
   {
     year: "2026",
-    role: "Full Stack Developer",
-    company: "Your Company / Freelance",
+    role: "Full Stack Developer Intern",
+    company: "Luminar technolab , kochi ",
     description:
       "Building full-stack web applications, APIs, and scalable digital products from concept to deployment.",
   },
   {
     year: "2025",
     role: "Web Developer",
-    company: "Your Company / Internship",
+    company: "freelance developer",
     description:
       "Developed responsive interfaces and backend services while working with modern JavaScript technologies.",
   },
